@@ -1,0 +1,7 @@
+{
+  "name": "Free_Single_Ship_Decorations",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/7PH/free-single-ship-decorations-lethal-company-mod",
+  "description": "Free Ship Decorations lets you mod your Lethal Company game to buy a single ship decorations for free each run",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
